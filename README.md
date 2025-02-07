@@ -21,7 +21,11 @@ Backend: Node.js, Express.js
 Database: MongoDB Atlas
 Real-Time: Socket.io
 Hosting: Vercel (Frontend), Render (Backend)
-Image Hosting: Cloudinary
+
+Test Credentials
+Email: ritesh@gmail.com
+Password: 123456
+
 🚀 Deployment
 Frontend Live URL: https://event-management-psi-seven.vercel.app/
 Backend Live URL: https://event-management-aeng.onrender.com/
