@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400">
+  <style>
+    .bg { fill: #f0f4f8; }
+    .people { fill: #2c3e50; }
+    .event-card { fill: #3498db; }
+    .icon { fill: #ffffff; }
+  </style>
+  
+  <rect width="500" height="400" class="bg"/>
+  
+  <g transform="translate(100, 100)">
+    <!-- Event Cards -->
+    <rect x="0" y="50" width="300" height="150" rx="10" class="event-card" opacity="0.8"/>
+    <rect x="20" y="80" width="260" height="40" fill="#ffffff" rx="5"/>
+    <rect x="20" y="130" width="260" height="40" fill="#ffffff" rx="5"/>
+    
+    <!-- People -->
+    <circle cx="50" cy="20" r="20" class="people"/>
+    <circle cx="100" cy="20" r="20" class="people"/>
+    <circle cx="150" cy="20" r="20" class="people"/>
+    
+    <!-- Icons -->
+    <path d="M230 10 L250 30 L270 10" stroke="#ffffff" stroke-width="3" fill="none"/>
+    <circle cx="250" cy="20" r="15" class="icon"/>
+  </g>
+</svg>
