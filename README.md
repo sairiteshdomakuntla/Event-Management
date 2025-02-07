@@ -23,4 +23,5 @@ Real-Time: Socket.io
 Hosting: Vercel (Frontend), Render (Backend)
 Image Hosting: Cloudinary
 🚀 Deployment
-Live URL: https://event-management-psi-seven.vercel.app/
+Frontend Live URL: https://event-management-psi-seven.vercel.app/
+Backend Live URL: https://event-management-aeng.onrender.com/
